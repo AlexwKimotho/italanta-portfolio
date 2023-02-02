@@ -10,10 +10,10 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm Alex Wachira</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">A student at Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
@@ -47,15 +47,13 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm a student Software Developer
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+📄 Know about my experiences [through my portfolio](https://alexkimotho.vercel.app/)
 
-📄 Know about my experiences [through my CV](about/resume.md)
+🌱 I’m currently open-sourcing through ITalanta 
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
 
 ### My work
 
@@ -70,7 +68,7 @@
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **https://alexkimotho.vercel.app/**
 
 <br />
 
@@ -100,8 +98,7 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
+
 
 
 ### The technologies I used
